@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'carrierwave'
 gem 'bootsnap', require: false
 gem 'devise'
+gem 'gravtastic'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
